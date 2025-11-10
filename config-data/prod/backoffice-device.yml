@@ -50,3 +50,4 @@ api:
     url: lb://backoffice-notifier/backoffice/api/v1/notify
   backoffice-erp-provider:
     url: lb://backoffice-erp-provider/backoffice/api/v1/erp-provider
+  
